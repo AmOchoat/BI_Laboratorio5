@@ -1,0 +1,404 @@
+"Customer_Key","Customer","Bill_To_Customer","Category","Buying_Group","Primary_Contact","Postal_Code"
+0,"Unknown","N/A","N/A","N/A","N/A",
+1,"Tailspin Toys (Head Office)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Waldemar Fisar",90410
+2,"Tailspin Toys (Sylvanite- MT)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Lorena Cindric",90216
+3,"Tailspin Toys (Peeples Valley- AZ)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Bhaargav Rambhatla",90205
+4,"Tailspin Toys (Medicine Lodge- KS)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Daniel Roman",90152
+5,"Tailspin Toys (Gasport- NY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Johanna Huiting",90261
+6,"Tailspin Toys (Jessie- ND)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Biswajeet Thakur",90298
+7,"Tailspin Toys (Frankewing- TN)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Kalidas Nadar",90761
+8,"Tailspin Toys (Bow Mar- CO)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Kanti Kotadia",90484
+9,"Tailspin Toys (Netcong- NJ)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Sointu Aalto",90129
+10,"Tailspin Toys (Wimbledon- ND)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Siddhartha Parkar",90061
+11,"Tailspin Toys (Devault- PA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Elnaz Javan",90185
+12,"Tailspin Toys (Biscay- MN)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Heloisa Fernandes",90054
+13,"Tailspin Toys (Stonefort- IL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Razeena Hosseini",90685
+14,"Tailspin Toys (Long Meadow- MD)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Tereza Valentova",90633
+15,"Tailspin Toys (Batson- TX)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Filips Jaunzems",90631
+16,"Tailspin Toys (Coney Island- MO)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Nitin Matondkar",90467
+17,"Tailspin Toys (East Fultonham- OH)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Adam Kubat",90416
+18,"Tailspin Toys (Goffstown- NH)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Isabelle Vodlan",90321
+19,"Tailspin Toys (Lemeta- AK)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Mithun Bhattacharya",90303
+20,"Tailspin Toys (College Place- WA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Nghi Hua",90050
+21,"Tailspin Toys (Tresckow- PA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Duleep Raju",90790
+22,"Tailspin Toys (Ward Ridge- FL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Cristina Longo",90784
+23,"Tailspin Toys (Ikatan- AK)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Hang Tang",90019
+24,"Tailspin Toys (Dundarrach- NC)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Intira Mookjai",90758
+25,"Tailspin Toys (Avenal- CA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Sulabha Khalsa",90352
+26,"Tailspin Toys (Hedrick- IA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Dhanishta Majji",90331
+27,"Tailspin Toys (Bowlus- MN)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Paula Gonzales",90703
+28,"Tailspin Toys (North Ridge- NY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Tatjana Utjesenovic",90024
+29,"Tailspin Toys (Eulaton- AL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Karel Hanak",90571
+30,"Tailspin Toys (Koontzville- WA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Odessa Schneider",90288
+31,"Tailspin Toys (Lake Stevens- WA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Kimberly Pace",90394
+32,"Tailspin Toys (Maypearl- TX)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Nikolajs Kalejs",90087
+33,"Tailspin Toys (Boyden Arbor- SC)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Haasini Rai",90497
+34,"Tailspin Toys (Dallardsville- TX)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Anjali Asthana",90041
+35,"Tailspin Toys (Slanesville- WV)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Shah Omidi",90601
+36,"Tailspin Toys (Ekron- KY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Ferhat Celik",90603
+37,"Tailspin Toys (Kerby- OR)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Dayarama Kamei",90686
+38,"Tailspin Toys (Airport Drive- MO)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Nils Kalnins",90211
+39,"Tailspin Toys (Diablock- KY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Ashish Acharya",90158
+40,"Tailspin Toys (Impact- TX)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Alena Prikrylova",90326
+41,"Tailspin Toys (Olivette- MO)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Lana Rozej",90042
+42,"Tailspin Toys (Arietta- NY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Chandrakanta Raut",90124
+43,"Tailspin Toys (Upper Preston- WA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Ganapati Gadiyaram",90687
+44,"Tailspin Toys (Amanda Park- WA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Adrijana Blagojevic",90258
+45,"Tailspin Toys (Severna Park- MD)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Lap Dinh",90326
+46,"Tailspin Toys (Jemison- AL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Didem ozCelik",90683
+47,"Tailspin Toys (Lake Hughes- CA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Serhat Akbulut",90358
+48,"Tailspin Toys (Trentwood- WA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Daniela Barrios",90615
+49,"Tailspin Toys (Muir- MI)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Julia Slobodova",90717
+50,"Tailspin Toys (Hambleton- WV)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Marcela Jankova",90087
+51,"Tailspin Toys (Imlaystown- NJ)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Dipali Sonkar",90051
+52,"Tailspin Toys (Idria- CA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Bansidhar Mitra",90556
+53,"Tailspin Toys (Nanafalia- AL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Gunnar Persson",90783
+54,"Tailspin Toys (Railroad- PA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Vitezslav Rehak",90586
+55,"Tailspin Toys (Gum Branch- GA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Bharat Sikdar",90559
+56,"Tailspin Toys (Royal City- WA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Juan Bezanson",90398
+57,"Tailspin Toys (Lakemore- OH)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Aile Mae",90347
+58,"Tailspin Toys (Mappsburg- VA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Pratap Varghese",90678
+59,"Tailspin Toys (Edgartown- MA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Margita Kopecka",90684
+60,"Tailspin Toys (East Dailey- WV)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Lekha Mitra",90548
+61,"Tailspin Toys (Fairfield Glade- TN)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Abhoy PrabhupÄ?da",90050
+62,"Tailspin Toys (Great Neck Estates- NY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Alida Caune",90240
+63,"Tailspin Toys (Stallion Springs- CA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Agnes Szolosy",90076
+64,"Tailspin Toys (Hodgdon- ME)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Rohana Kaskar",90673
+65,"Tailspin Toys (North Cowden- TX)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Hanuman Dubey",90406
+66,"Tailspin Toys (Madaket- MA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Bao Dao",90614
+67,"Tailspin Toys (Sentinel Butte- ND)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Preyakshna Aluri",90422
+68,"Tailspin Toys (Gardere- LA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Valentina Conti",90136
+69,"Tailspin Toys (Lytle Creek- CA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Theodore Saucier",90795
+70,"Tailspin Toys (New Baden- IL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Mariana Fierro",90235
+71,"Tailspin Toys (Good Hart- MI)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Afshin Djalili",90466
+72,"Tailspin Toys (Cortaro- AZ)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Bianh Phan",90351
+73,"Tailspin Toys (Cokato- MN)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Koknesis Vitols",90311
+74,"Tailspin Toys (Indios- PR)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Roxane Rastgu",90193
+75,"Tailspin Toys (Windsor Locks- CT)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Vlasta Srbova",90456
+76,"Tailspin Toys (Yewed- OK)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Lata Babu",90308
+77,"Tailspin Toys (Hahira- GA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Airi Vassiljev",90706
+78,"Tailspin Toys (Sekiu- WA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Duleep Walia",90686
+79,"Tailspin Toys (Page City- KS)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Matyas Macek",90316
+80,"Tailspin Toys (Valdese- NC)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Bharat Ankitham",90541
+81,"Tailspin Toys (Big Moose- NY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Vera Kubatova",90798
+82,"Tailspin Toys (La Cueva- NM)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Rakesh Nishad",90253
+83,"Tailspin Toys (Absecon- NJ)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Sang Tran",90540
+84,"Tailspin Toys (Aceitunas- PR)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Eekalabya Bose",90213
+85,"Tailspin Toys (Andrix- CO)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Tommy Kilpi",90653
+86,"Tailspin Toys (New Lexington- OH)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Andrea Ricci",90637
+87,"Tailspin Toys (Sauquoit- NY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Isabell  Duperre",90199
+88,"Tailspin Toys (Dracut- MA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Amarendra Ankitham",90519
+89,"Tailspin Toys (Victory Gardens- NJ)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Aakarsha Nookala",90461
+90,"Tailspin Toys (Tolna- ND)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Stanislav Sedlar",90089
+91,"Tailspin Toys (Alstead- NH)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","GokCe Karaca",90073
+92,"Tailspin Toys (Sans Souci- SC)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Coralie Emond",90553
+93,"Tailspin Toys (Clewiston- FL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Karina Celmina",90354
+94,"Tailspin Toys (Cheyenne Wells- CO)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Teresa Pisani",90449
+95,"Tailspin Toys (Lavon- TX)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Alba Ponce",90310
+96,"Tailspin Toys (South La Paloma- TX)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Piper Leigh",90792
+97,"Tailspin Toys (Manchester Center- VT)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Karie Seymour",90179
+98,"Tailspin Toys (El Centro- CA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Timea Peto",90573
+99,"Tailspin Toys (Guin- AL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Victoria Ene",90779
+100,"Tailspin Toys (Tunnelhill- PA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Bhavani Bhowmick",90788
+101,"Tailspin Toys (Cundiyo- NM)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Yasmine Berggren",90515
+102,"Tailspin Toys (Fieldbrook- CA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Tea Koppel",90205
+103,"Tailspin Toys (Kalvesta- KS)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Naseem Radan",90130
+104,"Tailspin Toys (Wallagrass- ME)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Laboni Deb",90579
+105,"Tailspin Toys (Tomnolen- MS)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Sung-Hwan Hwang",90400
+106,"Tailspin Toys (Tumacacori- AZ)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Shiva Pipalia",90662
+107,"Tailspin Toys (Glen Avon- CA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Karie Mercier",90782
+108,"Tailspin Toys (Bernie- MO)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Bhanu Thota",90045
+109,"Tailspin Toys (South Laguna- CA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Ae-Cha Joo",90247
+110,"Tailspin Toys (North Crows Nest- IN)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Dinara Saparkyzy",90792
+111,"Tailspin Toys (Oriole Beach- FL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Adam Dvorak",90436
+112,"Tailspin Toys (Sallyards- KS)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Ingrida Celmina",90706
+113,"Tailspin Toys (Dahlia- NM)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Jae-Hwa Jang",90264
+114,"Tailspin Toys (Cherry Grove Beach- SC)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Duck-Hwan Bae",90146
+115,"Tailspin Toys (Bethania- NC)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Jagoda Vasiljevic",90368
+116,"Tailspin Toys (Rafael Capó- PR)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Toma Nastase",90685
+117,"Tailspin Toys (Scofield- UT)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Valerio Cardoso",90237
+118,"Tailspin Toys (Vassalboro- ME)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Ileana Aguilar",90546
+119,"Tailspin Toys (Statenville- GA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Tjasa Weitzer",90504
+120,"Tailspin Toys (Bratenahl- OH)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Lucas Van Veenen",90154
+121,"Tailspin Toys (Elrosa- MN)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Steven Frasier",90079
+122,"Tailspin Toys (McClave- CO)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Mauri Enestam",90439
+123,"Tailspin Toys (Roe Park- NY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Ella Zvirbule",90775
+124,"Tailspin Toys (Hanoverton- OH)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Sevim AydÄ±n",90770
+125,"Tailspin Toys (Annamoriah- WV)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Blanka Stavinohova",90485
+126,"Tailspin Toys (Francis Mills- NJ)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Akanksha Iyengar",90743
+127,"Tailspin Toys (Point Roberts- WA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Kertu Smirnov",90504
+128,"Tailspin Toys (East Portal- CO)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Jure Grabensek",90432
+129,"Tailspin Toys (Mineral Hills- MI)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Javiera Madera",90442
+130,"Tailspin Toys (Maple Shade- NJ)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Aija Mottola",90549
+131,"Tailspin Toys (Kwethluk- AK)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Darshan Gupta",90759
+132,"Tailspin Toys (Minidoka- ID)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Akanksha Sarma",90324
+133,"Tailspin Toys (Lake Erie Beach- NY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Aino Kallas",90186
+134,"Tailspin Toys (Tavares- FL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","An Dung Phung",90467
+135,"Tailspin Toys (Terre du Lac- MO)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Gaurav Sikdar",90145
+136,"Tailspin Toys (Mount Montgomery- NV)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Anirban Sen",90302
+137,"Tailspin Toys (Carbonville- UT)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Chandrakanta Benjaree",90339
+138,"Tailspin Toys (Navassa- NC)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Badari Chadalavada",90535
+139,"Tailspin Toys (Hardeeville- SC)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Gabriele Udinesi",90005
+140,"Tailspin Toys (Furley- KS)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Malay PrabhupÄ?da",90416
+141,"Tailspin Toys (Arrow Rock- MO)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Hedi Koppel",90639
+142,"Tailspin Toys (King Cove- AK)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Denisa Ioveanu",90457
+143,"Tailspin Toys (Ashtabula- OH)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Vaclav Polaskova",90119
+144,"Tailspin Toys (Larose- LA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Pramod Nishad",90342
+145,"Tailspin Toys (Manahawkin- NJ)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Prasong Tuntayakul",90686
+146,"Tailspin Toys (Belgreen- AL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Aija Zvaigzne",90735
+147,"Tailspin Toys (Fishtail- MT)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Gilbert Pelland",90432
+148,"Tailspin Toys (Baraboo- WI)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Marcella Napolitani",90165
+149,"Tailspin Toys (Inguadona- MN)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Femke Hollenberg",90245
+150,"Tailspin Toys (Corfu- NY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Brita Jarvi",90690
+151,"Tailspin Toys (Antares- AZ)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Donato Araujo",90385
+152,"Tailspin Toys (Sun River- MT)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Aleksander Jarvi",90309
+153,"Tailspin Toys (Marcell- MN)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Malati Shenoy",90729
+154,"Tailspin Toys (Eden Valley- MN)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Gui-Hyun Ji",90367
+155,"Tailspin Toys (Arbor Vitae- WI)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Michal Polaskova",90333
+156,"Tailspin Toys (Hollywood Park- TX)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Dilara Ayhan",90405
+157,"Tailspin Toys (Saks- AL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Peter Macias",90362
+158,"Tailspin Toys (Donner- LA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Kurt Lukes",90567
+159,"Tailspin Toys (Saint Louis Park- MN)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Beatrise Bite",90401
+160,"Tailspin Toys (Crary- ND)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Bishwanath Ghosh",90248
+161,"Tailspin Toys (Aspen Park- CO)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Gianguido Lucchesi",90644
+162,"Tailspin Toys (Glen Park- NY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Nu Bach",90026
+163,"Tailspin Toys (Panaca- NV)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Ivonna Ene",90297
+164,"Tailspin Toys (Rothsville- PA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Ceyhun sahin",90538
+165,"Tailspin Toys (Topstone- CT)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Tian Peng",90675
+166,"Tailspin Toys (McCamey- TX)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Vlastimil Bohuslav",90434
+167,"Tailspin Toys (Rockwall- TX)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Nejc Vosnik",90294
+168,"Tailspin Toys (Seagraves- TX)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Anindo Mazumdar",90453
+169,"Tailspin Toys (Sinclair- WY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Nils Balodis",90401
+170,"Tailspin Toys (Eastchester- NY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Daniella Barbosa",90031
+171,"Tailspin Toys (Ortley Beach- NJ)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Raymond Levesque",90179
+172,"Tailspin Toys (Madrone- NM)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Raymond Desforges",90617
+173,"Tailspin Toys (Wappingers Falls- NY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Raju Atluri",90681
+174,"Tailspin Toys (Astor Park- FL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Matyas Bohuslav",90179
+175,"Tailspin Toys (San Acacia- NM)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Julio Correa",90445
+176,"Tailspin Toys (Malott- WA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Banshari De",90015
+177,"Tailspin Toys (Orrtanna- PA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Ngai Lam",90008
+178,"Tailspin Toys (Armstrong Creek- WI)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Hyun-Doo Song",90397
+179,"Tailspin Toys (Hiteman- IA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Gabriela Srbova",90212
+180,"Tailspin Toys (Caselton- NV)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Serkan senturk",90747
+181,"Tailspin Toys (Heilwood- PA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Aahlada Thota",90300
+182,"Tailspin Toys (Hayes Center- NE)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Ayberk sahin",90352
+183,"Tailspin Toys (Tierra Verde- FL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Kaan Tekin",90195
+184,"Tailspin Toys (South Euclid- OH)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Lata Khandke",90551
+185,"Tailspin Toys (Vidrine- LA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Truman Eder",90272
+186,"Tailspin Toys (Placer- OR)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Lorraine Paulet",90628
+187,"Tailspin Toys (Brown City- MI)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Biplab De",90503
+188,"Tailspin Toys (Premont- TX)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Rachelle Brasseur",90375
+189,"Tailspin Toys (Wilkes-Barre- PA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Sara Charlton",90766
+190,"Tailspin Toys (Teutopolis- IL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Ramesh Mukherjee",90591
+191,"Tailspin Toys (Orchard Hill- GA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Ester Ahmadian",90698
+192,"Tailspin Toys (Optimo- NM)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Daniel Magnusson",90080
+193,"Tailspin Toys (Knifley- KY)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Jack Carpenter",90298
+194,"Tailspin Toys (Naples Park- FL)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Thomas Fischer",90386
+195,"Tailspin Toys (Lesslie- SC)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Viollette Monty",90771
+196,"Tailspin Toys (Howells- NE)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Alinne Cardoso",90444
+197,"Tailspin Toys (Magalia- CA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Mani Poddar",90226
+198,"Tailspin Toys (Buell- MO)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Deakshitulu Mokkapati",90113
+199,"Tailspin Toys (Antonito- CO)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Cezar Pavel",90346
+200,"Tailspin Toys (Tooele- UT)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Fanni Benko",90100
+201,"Tailspin Toys (Skyway- WA)","Tailspin Toys (Head Office)","Novelty Shop","Tailspin Toys","Brenda Morgan",90588
+202,"Wingtip Toys (Head Office)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Olga Alexandrova",90625
+203,"Wingtip Toys (Black Lick- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Maris Baltins",90477
+204,"Wingtip Toys (Queen Valley- AZ)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Parsa Reuser",90588
+205,"Wingtip Toys (Penns Creek- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Duleep Srivastava",90195
+206,"Wingtip Toys (Bourbonnais- IL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Miran Nikolic",90582
+207,"Wingtip Toys (Tuscaloosa- AL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Calin Bojin",90011
+208,"Wingtip Toys (Mooringsport- LA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Lang Le",90387
+209,"Wingtip Toys (Rockwall- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Bhaagyalakshmi Muppavarapu",90500
+210,"Wingtip Toys (Orick- CA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Dimitry Nechita",90329
+211,"Wingtip Toys (Bernstein- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Miroslav Kohout",90314
+212,"Wingtip Toys (Edmund- WI)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Fransje Mutlu",90777
+213,"Wingtip Toys (Bozeman Hot Springs- MT)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Chati Ornlamai",90708
+214,"Wingtip Toys (Truscott- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Raine Knihtila",90010
+215,"Wingtip Toys (Rose Tree- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Lan Chu",90710
+216,"Wingtip Toys (Leathersville- GA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Maurice English",90402
+217,"Wingtip Toys (Necedah- WI)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Irene Sepp",90049
+218,"Wingtip Toys (Chetek- WI)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Chandranath Bose",90193
+219,"Wingtip Toys (Yaak- MT)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Ana Julijana Isa",90284
+220,"Wingtip Toys (Compass Lake- FL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Gireesh Bhogireddy",90212
+221,"Wingtip Toys (Herlong- CA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Premwadee Atitarn",90358
+222,"Wingtip Toys (Highland Home- AL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Nishant Patil",90035
+223,"Wingtip Toys (Naches- WA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Rohan Das",90729
+224,"Wingtip Toys (Baldwin City- KS)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Aamdaal Kamasamudram",90351
+225,"Wingtip Toys (Heartwell- NE)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Baebeesarasvati Kamasamudram",90298
+226,"Wingtip Toys (Bethel Acres- OK)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Marcello Dellucci",90530
+227,"Wingtip Toys (Willow Valley- AZ)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Mee-Kyong Sin",90041
+228,"Wingtip Toys (Athol Springs- NY)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Ivica LuÄ?ic",90285
+229,"Wingtip Toys (Paw Paw Lake- MI)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Vinicius Correa",90635
+230,"Wingtip Toys (Lilbourn- MO)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Fabio Pena",90025
+231,"Wingtip Toys (Lost River- ID)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Lakshmi Roy",90272
+232,"Wingtip Toys (Rosa Sánchez- PR)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Selma Seppanen",90726
+233,"Wingtip Toys (Vamo- FL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Bay Ly",90333
+234,"Wingtip Toys (Balko- OK)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Adirake Saenamuang",90584
+235,"Wingtip Toys (Lime Lake- NY)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Tarja Penttila",90667
+236,"Wingtip Toys (Teutopolis- IL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Devendranath Huq",90269
+237,"Wingtip Toys (Gargatha- VA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Enes Olsson",90752
+238,"Wingtip Toys (Cadogan- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Vanja Grgic",90357
+239,"Wingtip Toys (Lucasville- OH)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Dayaram Mishra",90391
+240,"Wingtip Toys (Cylon- WI)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Mina Omidzadeh",90266
+241,"Wingtip Toys (Asher- OK)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Kadir Usenuly",90683
+242,"Wingtip Toys (Keosauqua- IA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Kajsa Jakobsson",90281
+243,"Wingtip Toys (Homer City- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Rahul Ghate",90713
+244,"Wingtip Toys (Berville- MI)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Lien Banh",90628
+245,"Wingtip Toys (Tea- SD)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Divyendu Chakraborty",90641
+246,"Wingtip Toys (Dacono- CO)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","An Dung Ngo",90289
+247,"Wingtip Toys (Saint Landry- LA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Chetana Kamath",90033
+248,"Wingtip Toys (Coin- IA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Premwadee Saowaluk",90458
+249,"Wingtip Toys (Salt Wells- NV)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Jae-Hwa Min",90058
+250,"Wingtip Toys (Delray- WV)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Catalina Nechita",90317
+251,"Wingtip Toys (Mount Summit- IN)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Constanza Laureano",90142
+252,"Wingtip Toys (Smoot- WY)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Aakriti Bhamidipati",90071
+253,"Wingtip Toys (Lake Davis- CA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Himadri PrabhupÄ?da",90719
+254,"Wingtip Toys (Stanardsville- VA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Bryan Helms",90739
+255,"Wingtip Toys (Corcovado- PR)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Harri Kask",90498
+256,"Wingtip Toys (Taft Heights- CA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Ilse Sandell",90304
+257,"Wingtip Toys (West Hempstead- NY)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Subhash Matondkar",90799
+258,"Wingtip Toys (Portales- NM)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Eesvaraavu Ankitham",90304
+259,"Wingtip Toys (Coker- AL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Miguel Paez",90364
+260,"Wingtip Toys (Haydenville- OH)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Tobias Gruber",90519
+261,"Wingtip Toys (Mayhill- NM)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Daniela Dumina",90741
+262,"Wingtip Toys (Vair- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Ganesh Mukherjee",90707
+263,"Wingtip Toys (Crossroads- NM)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Avanti Nishad",90068
+264,"Wingtip Toys (Cowlington- OK)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Daedeepya Thota",90524
+265,"Wingtip Toys (Glen Ullin- ND)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Gabriela Chirila",90380
+266,"Wingtip Toys (Oologah- OK)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Nagur Atluri",90439
+267,"Wingtip Toys (Lytle- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Sintja Buecek",90706
+268,"Wingtip Toys (Mahaffey- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Pongrit Srisati",90361
+269,"Wingtip Toys (Sunburg- MN)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Linda Green",90477
+270,"Wingtip Toys (Johnetta- KY)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Sarmis Skujins",90699
+271,"Wingtip Toys (Universal City- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Libuse Srbova",90500
+272,"Wingtip Toys (Ridgemark- CA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Viktorie Stejskalova",90667
+273,"Wingtip Toys (San Jacinto- CA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Slavko Pavlovic",90017
+274,"Wingtip Toys (Floriston- CA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Doru Munteanu",90298
+275,"Wingtip Toys (Bokeelia- FL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Aile Aasmae",90757
+276,"Wingtip Toys (Cale- AR)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Ava Edden",90643
+277,"Wingtip Toys (Karthaus- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Manali Bose",90362
+278,"Wingtip Toys (Glancy- MS)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Astrid Poisson",90294
+279,"Wingtip Toys (Stoneboro- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Gi-Suk Heo",90542
+280,"Wingtip Toys (Mier- IN)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Irma Kruze",90474
+281,"Wingtip Toys (Wapinitia- OR)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Dhaeraemdranaadh Pamulaparthi",90173
+282,"Wingtip Toys (White Church- MO)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Agrita Kalnina",90184
+283,"Wingtip Toys (Caton- NY)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Ravindra Sandhu",90250
+284,"Wingtip Toys (Plum Branch- SC)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Klara Rakus",90631
+285,"Wingtip Toys (Mauldin- SC)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Am Lo",90243
+286,"Wingtip Toys (Bonner Springs- KS)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Sophie Van Lier",90715
+287,"Wingtip Toys (Lowellville- OH)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Dimitry Profis",90737
+288,"Wingtip Toys (Elverson- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Jan Zeman",90147
+289,"Wingtip Toys (Isabela- PR)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Ranjit Dikshit",90320
+290,"Wingtip Toys (Sayner- WI)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Varuna Ganguly",90541
+291,"Wingtip Toys (Beals- ME)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Basak Tekin",90772
+292,"Wingtip Toys (Morton Grove- IL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Doru Tirlea",90336
+293,"Wingtip Toys (Birds- IL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Jessica Perrine",90393
+294,"Wingtip Toys (Federalsburg- MD)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Yavuz Cetinkaya",90373
+295,"Wingtip Toys (Pikeview- CO)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Sirirat Kongpaisarn",90478
+296,"Wingtip Toys (Boalsburg- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Claude Bonsaint",90247
+297,"Wingtip Toys (Port Hueneme- CA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Roman Pajer",90726
+298,"Wingtip Toys (Verdery- SC)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Vitezslav Holy",90108
+299,"Wingtip Toys (Obetz- OH)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Devi Dewangan",90143
+300,"Wingtip Toys (East Fultonham- OH)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Masa Buecek",90032
+301,"Wingtip Toys (Obion- TN)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Bipin Modi",90451
+302,"Wingtip Toys (Cavendish- VT)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Rahul Sarma",90672
+303,"Wingtip Toys (Miesville- MN)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Alejandro Escobar",90728
+304,"Wingtip Toys (Valhalla- NC)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Andris Vitols",90310
+305,"Wingtip Toys (Cape Neddick- ME)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Mariela Weitzer",90296
+306,"Wingtip Toys (Silver Plume- CO)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Alain Pelland",90797
+307,"Wingtip Toys (North Beach Haven- NJ)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Milica Stojkovic",90311
+308,"Wingtip Toys (Downingtown- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Natalie Horackova",90133
+309,"Wingtip Toys (Branson West- MO)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Baalaaditya Rallapalli",90016
+310,"Wingtip Toys (Bergen Park- CO)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Matej Formanek",90278
+311,"Wingtip Toys (Grabill- IN)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Manish Ghosh",90032
+312,"Wingtip Toys (North Manitou- MI)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Pracha Nantakarn",90251
+313,"Wingtip Toys (Philip- SD)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Charline Flamand",90438
+314,"Wingtip Toys (Straughn- IN)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Teodor Vlad",90771
+315,"Wingtip Toys (Gilford- NH)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Anda Liepa",90418
+316,"Wingtip Toys (Del Valle- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Jelena Utjesenovic",90612
+317,"Wingtip Toys (Harkers Island- NC)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Adriana Horackova",90175
+318,"Wingtip Toys (Licking- MO)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Miika Putkonen",90280
+319,"Wingtip Toys (Raton- NM)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Padma Iyer",90687
+320,"Wingtip Toys (Boynton- OK)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Åšani Sen",90760
+321,"Wingtip Toys (Frenchburg- KY)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Helene Dupuy",90218
+322,"Wingtip Toys (Robertsdale- AL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","omer ozbek",90580
+323,"Wingtip Toys (Dickerson- MD)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Akshayakeerti Jandhyala",90783
+324,"Wingtip Toys (Bruceton Mills- WV)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Ankolika Sen",90269
+325,"Wingtip Toys (Cloquet- MN)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Baalaamani Veturi",90639
+326,"Wingtip Toys (Claycomo- MO)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Julia Konecna",90501
+327,"Wingtip Toys (Beekmantown- NY)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Madelaine  Paulet",90800
+328,"Wingtip Toys (Islip Terrace- NY)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Mario Jogi",90778
+329,"Wingtip Toys (Rich Creek- VA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Kaya ozbek",90588
+330,"Wingtip Toys (Griswoldville- GA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Seo-yeon Rim",90110
+331,"Wingtip Toys (East Mountain- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Sitara Benjaree",90353
+332,"Wingtip Toys (Omer- MI)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Javier Caraballo",90228
+333,"Wingtip Toys (Waycross- GA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Akhtar Shahrestaani",90743
+334,"Wingtip Toys (Nichols Hills- OK)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Vanita Bhowmick",90128
+335,"Wingtip Toys (Plaquemine- LA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Nishant Menon",90520
+336,"Wingtip Toys (Triadelphia- WV)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Josef Benda",90747
+337,"Wingtip Toys (Ferney- SD)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Teresa Bender",90461
+338,"Wingtip Toys (Akhiok- AK)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Deepesh Bose",90197
+339,"Wingtip Toys (Deeson- MS)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Madhavi Gupta",90338
+340,"Wingtip Toys (Nuangola- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Bich Banh",90156
+341,"Wingtip Toys (Weld- ME)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Åšani Nair",90031
+342,"Wingtip Toys (Mickleton- NJ)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Angelina Gormanston",90751
+343,"Wingtip Toys (Schererville- IN)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Prasert Supitayaporn",90457
+344,"Wingtip Toys (Lexington Heights- MI)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Abhaya Rambhatla",90067
+345,"Wingtip Toys (Broomtown- AL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Lalit Ogra",90717
+346,"Wingtip Toys (Jamison- IA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Mina Bagheri",90010
+347,"Wingtip Toys (Key Biscayne- FL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Debraj Sanyal",90085
+348,"Wingtip Toys (Chaseley- ND)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Marco Costa",90066
+349,"Wingtip Toys (Indian Creek- IL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Crina Nechita",90610
+350,"Wingtip Toys (Lake Ronkonkoma- NY)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Zala Ibrahimagic",90437
+351,"Wingtip Toys (Morrison Bluff- AR)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Gundega Kundzina",90682
+352,"Wingtip Toys (Huntingburg- IN)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Parveen Haldar",90434
+353,"Wingtip Toys (Shay- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Noel Cartier",90759
+354,"Wingtip Toys (Helotes- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Ilgonis Dzenis",90119
+355,"Wingtip Toys (Hollandsburg- IN)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Ondrej Tomek",90683
+356,"Wingtip Toys (Liberty Grove- MD)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Mohini Kaul",90204
+357,"Wingtip Toys (Morita- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Arnab Malakar",90222
+358,"Wingtip Toys (New Laguna- NM)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Mary Barney",90761
+359,"Wingtip Toys (Bourneville- OH)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Dhaeraemdranaadh Allu",90164
+360,"Wingtip Toys (Mendoza- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Paola Greece",90420
+361,"Wingtip Toys (Palmas del Mar- PR)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Flora Olofsson",90167
+362,"Wingtip Toys (Marion Junction- AL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Nguyet Bach",90078
+363,"Wingtip Toys (Ware Shoals- SC)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Jyoti Karnik",90181
+364,"Wingtip Toys (Lostine- OR)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Samuel Almaraz",90287
+365,"Wingtip Toys (Tilleda- WI)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Zuzana Kuchtova",90240
+366,"Wingtip Toys (Wapiti- WY)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Mark Ruutel",90344
+367,"Wingtip Toys (Amado- AZ)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Corneliu Vladu",90107
+368,"Wingtip Toys (Jeromesville- OH)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Severins Polis",90184
+369,"Wingtip Toys (Ovilla- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Linda Ledezma",90683
+370,"Wingtip Toys (West Frostproof- FL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Halit Gunes",90126
+371,"Wingtip Toys (Flomaton- AL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Vallo Vesik",90134
+372,"Wingtip Toys (Pawlet- VT)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Dana Mrazova",90472
+373,"Wingtip Toys (Trout Run- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Ema Slosar",90257
+374,"Wingtip Toys (Marin City- CA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Hemchandra Debnath",90449
+375,"Wingtip Toys (Molalla- OR)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Monika Valentova",90761
+376,"Wingtip Toys (Trumansburg- NY)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Dattaatraeya Tottempudi",90482
+377,"Wingtip Toys (Goodings Grove- IL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Kahkushan Shakiba",90512
+378,"Wingtip Toys (Cherryplain- NY)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Taner YÄ±lmaz",90779
+379,"Wingtip Toys (Bell Acres- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Abhra Thakur",90526
+380,"Wingtip Toys (Connoquenessing- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Dunja Radoncis",90775
+381,"Wingtip Toys (Sarversville- PA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Darakhshan Javaherian",90201
+382,"Wingtip Toys (Munich- ND)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Youssef Eriksson",90334
+383,"Wingtip Toys (Montoya- NM)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Pavel Bohuslav",90683
+384,"Wingtip Toys (Knights Landing- CA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Jiri Vacha",90400
+385,"Wingtip Toys (Cache- OK)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Magdalena Cervenkova",90770
+386,"Wingtip Toys (Towaco- NJ)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Asha Mudigonda",90406
+387,"Wingtip Toys (Lynne- FL)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Anete Kundzina",90009
+388,"Wingtip Toys (Plata- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Daniela Sal",90374
+389,"Wingtip Toys (Oak Point- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Duangrat Atitarn",90380
+390,"Wingtip Toys (Alcester- SD)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Deviprasad PrabhupÄ?da",90797
+391,"Wingtip Toys (McAdenville- NC)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Aija Lukstina",90644
+392,"Wingtip Toys (Idaho City- ID)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Hoc Le",90426
+393,"Wingtip Toys (Dunkerton- IA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Bhairaam Kidambi",90141
+394,"Wingtip Toys (Cuyamungue- NM)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Jae-Hwa Shin",90540
+395,"Wingtip Toys (Marfa- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Caterina Fallaci",90235
+396,"Wingtip Toys (Accomac- VA)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Baanuraekha Voleti",90378
+397,"Wingtip Toys (Cos Cob- CT)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Ranjeet Haldar",90675
+398,"Wingtip Toys (Haycock- AK)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Bhaamini Kanaparthi",90603
+399,"Wingtip Toys (Kapa'a- HI)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Margit Molnar",90796
+400,"Wingtip Toys (Dickworsham- TX)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Chandni Jandhyala",90704
+401,"Wingtip Toys (Caro- MI)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Ljubomir Nesic",90043
+402,"Wingtip Toys (Ruthsburg- MD)","Wingtip Toys (Head Office)","Novelty Shop","Wingtip Toys","Telma Hermansson",90451
