@@ -1,0 +1,203 @@
+CREATE TABLE IF NOT EXISTS city(
+City_Key INT PRIMARY KEY,
+City VARCHAR(150),
+State_Province VARCHAR(150),
+Country VARCHAR(150),
+Continent VARCHAR(150),
+Sales_Territory VARCHAR(150),
+Region VARCHAR(150),
+Subregion VARCHAR(150),
+Latest_Recorded_Population INT
+);
+
+CREATE TABLE IF NOT EXISTS customer(
+Customer_Key INT PRIMARY KEY,
+Customer VARCHAR(150),
+Bill_To_Customer VARCHAR(150),
+Category VARCHAR(150),
+Buying_Group VARCHAR(150),
+Primary_Contact VARCHAR(150),
+Postal_Code INT
+);
+
+CREATE TABLE IF NOT EXISTS employee(
+Employee_Key INT PRIMARY KEY,
+Employee VARCHAR(150),
+Preferred_Name VARCHAR(150),
+Is_Salesperson BOOLEAN
+);
+
+CREATE TABLE IF NOT EXISTS stockitem(
+Stock_Item_Key INT PRIMARY KEY,
+Stock_Item VARCHAR(200),
+Color VARCHAR(50),
+Selling_Package VARCHAR(50),
+Buying_Package VARCHAR(50),
+Size_val VARCHAR(50),
+Lead_Time_Days INT,
+Quantity_Per_Outer INT,
+Is_Chiller_Stock BOOLEAN,
+Tax_Rate DECIMAL,
+Unit_Price DECIMAL,
+Recommended_Retail_Price DECIMAL,
+Typical_Weight_Per_Unit DECIMAL
+);
+
+CREATE TABLE IF NOT EXISTS date_table(
+Date_key DATE PRIMARY KEY,
+Day_Number INT,
+Day_val INT,
+Month_val VARCHAR(20),
+Short_Month VARCHAR(10),
+Calendar_Month_Number INT,
+Calendar_Year INT,
+Fiscal_Month_Number INT,
+Fiscal_Year INT);
+
+CREATE TABLE IF NOT EXISTS fact_order(
+Order_Key INT PRIMARY KEY,
+City_Key INT REFERENCES city (city_key),
+Customer_Key INT REFERENCES customer (customer_key),
+Stock_Item_Key INT REFERENCES stockitem (stock_item_key),
+Order_Date_Key DATE REFERENCES date_table (date_key),
+Picked_Date_Key DATE REFERENCES date_table (date_key),
+Salesperson_Key INT REFERENCES employee (employee_key),
+Picker_Key INT REFERENCES employee (employee_key),
+Packagesss VARCHAR(50),
+Quantity INT,
+Unit_Price DECIMAL,
+Tax_Rate DECIMAL,
+Total_Excluding_Tax DECIMAL,
+Tax_Amount DECIMAL,
+Total_Including_Tax DECIMAL
+);
+
+CREATE TABLE IF NOT EXISTS stockitem_historia(
+Stock_Item_Key INT,
+WWI_Stock_Item_ID INT,
+Stock_Item VARCHAR(200),
+Color VARCHAR(50),
+Selling_Package VARCHAR(50),
+Buying_Package VARCHAR(50),
+Brand VARCHAR(50),
+Size_val VARCHAR(50),
+Lead_Time_Days INT,
+Quantity_Per_Outer INT,
+Is_Chiller_Stock BOOLEAN,
+Tax_Rate DECIMAL,
+Unit_Price DECIMAL,
+Recommended_Retail_Price DECIMAL,
+Typical_Weight_Per_Unit DECIMAL,
+tk_stock_item INT,
+_Version INT,
+Date_from DATE,
+Date_to DATE
+);
+-- Alterar tablas ----------------------------------------
+----------------------------------------------------------
+
+ALTER TABLE stockitem_historia ADD COLUMN Stock_Item_Key_KTL INT;
+UPDATE stockitem_historia SET Stock_Item_Key_KTL=Stock_Item_Key;
+ALTER TABLE stockitem_historia DROP COLUMN Stock_Item_Key;
+ALTER TABLE stockitem_historia RENAME Stock_Item_Key_KTL TO Stock_Item_Key;
+
+;
+ALTER TABLE stockitem_historia ADD COLUMN Stock_Item_KTL VARCHAR(200);
+UPDATE stockitem_historia SET Stock_Item_KTL=Stock_Item;
+ALTER TABLE stockitem_historia DROP COLUMN Stock_Item;
+ALTER TABLE stockitem_historia RENAME Stock_Item_KTL TO Stock_Item;
+
+;
+ALTER TABLE stockitem_historia ADD COLUMN Color_KTL VARCHAR(50);
+UPDATE stockitem_historia SET Color_KTL=Color;
+ALTER TABLE stockitem_historia DROP COLUMN Color;
+ALTER TABLE stockitem_historia RENAME Color_KTL TO Color;
+
+;
+ALTER TABLE stockitem_historia ADD COLUMN Selling_Package_KTL VARCHAR(50);
+UPDATE stockitem_historia SET Selling_Package_KTL=Selling_Package;
+ALTER TABLE stockitem_historia DROP COLUMN Selling_Package;
+ALTER TABLE stockitem_historia RENAME Selling_Package_KTL TO Selling_Package;
+
+;
+ALTER TABLE stockitem_historia ADD COLUMN Buying_Package_KTL VARCHAR(50);
+UPDATE stockitem_historia SET Buying_Package_KTL=Buying_Package;
+ALTER TABLE stockitem_historia DROP COLUMN Buying_Package;
+ALTER TABLE stockitem_historia RENAME Buying_Package_KTL TO Buying_Package;
+
+;
+ALTER TABLE stockitem_historia ADD COLUMN Brand_KTL VARCHAR(50);
+UPDATE stockitem_historia SET Brand_KTL=Brand;
+ALTER TABLE stockitem_historia DROP COLUMN Brand;
+ALTER TABLE stockitem_historia RENAME Brand_KTL TO Brand;
+
+;
+ALTER TABLE stockitem_historia ADD COLUMN size_val_KTL VARCHAR(50);
+UPDATE stockitem_historia SET size_val_KTL=size_val;
+ALTER TABLE stockitem_historia DROP COLUMN size_val;
+ALTER TABLE stockitem_historia RENAME size_val_KTL TO size_val;
+
+;
+ALTER TABLE stockitem_historia ADD COLUMN Lead_Time_Days_KTL INT;
+UPDATE stockitem_historia SET Lead_Time_Days_KTL=Lead_Time_Days;
+ALTER TABLE stockitem_historia DROP COLUMN Lead_Time_Days;
+ALTER TABLE stockitem_historia RENAME Lead_Time_Days_KTL TO Lead_Time_Days;
+
+;
+ALTER TABLE stockitem_historia ADD COLUMN Quantity_Per_Outer_KTL INT;
+UPDATE stockitem_historia SET Quantity_Per_Outer_KTL=Quantity_Per_Outer;
+ALTER TABLE stockitem_historia DROP COLUMN Quantity_Per_Outer;
+ALTER TABLE stockitem_historia RENAME Quantity_Per_Outer_KTL TO Quantity_Per_Outer;
+
+;
+ALTER TABLE stockitem_historia ADD COLUMN Tax_Rate_KTL NUMERIC(9, 3);
+UPDATE stockitem_historia SET Tax_Rate_KTL=Tax_Rate;
+ALTER TABLE stockitem_historia DROP COLUMN Tax_Rate;
+ALTER TABLE stockitem_historia RENAME Tax_Rate_KTL TO Tax_Rate;
+
+;
+ALTER TABLE stockitem_historia ADD COLUMN Unit_Price_KTL NUMERIC(9, 2);
+UPDATE stockitem_historia SET Unit_Price_KTL=Unit_Price;
+ALTER TABLE stockitem_historia DROP COLUMN Unit_Price;
+ALTER TABLE stockitem_historia RENAME Unit_Price_KTL TO Unit_Price;
+
+;
+ALTER TABLE stockitem_historia ADD COLUMN Recommended_Retail_Price_KTL NUMERIC(9, 2);
+UPDATE stockitem_historia SET Recommended_Retail_Price_KTL=Recommended_Retail_Price;
+ALTER TABLE stockitem_historia DROP COLUMN Recommended_Retail_Price;
+ALTER TABLE stockitem_historia RENAME Recommended_Retail_Price_KTL TO Recommended_Retail_Price;
+
+;
+ALTER TABLE stockitem_historia ADD COLUMN Typical_Weight_Per_Unit_KTL NUMERIC(9, 3);
+UPDATE stockitem_historia SET Typical_Weight_Per_Unit_KTL=Typical_Weight_Per_Unit;
+ALTER TABLE stockitem_historia DROP COLUMN Typical_Weight_Per_Unit;
+ALTER TABLE stockitem_historia RENAME Typical_Weight_Per_Unit_KTL TO Typical_Weight_Per_Unit;
+
+
+-- Carga de datos a la base de datos ---------------------
+----------------------------------------------------------
+
+COPY PUBLIC.city FROM 'C:\Users\Familia8A\Desktop\OneDrive - Universidad de los Andes\Universidad\Sexto Semestre\Inteligencia de Negocios\Laboratorios\Laboratorio 4\Laboratorio_4\Datos Procesados\dimension_city.csv' DELIMITER ',' CSV HEADER;
+COPY PUBLIC.customer FROM 'C:\Users\Familia8A\Desktop\OneDrive - Universidad de los Andes\Universidad\Sexto Semestre\Inteligencia de Negocios\Laboratorios\Laboratorio 4\Laboratorio_4\Datos Procesados\dimension_customer.csv' DELIMITER ',' CSV HEADER;
+COPY PUBLIC.date_table FROM 'C:\Users\Familia8A\Desktop\OneDrive - Universidad de los Andes\Universidad\Sexto Semestre\Inteligencia de Negocios\Laboratorios\Laboratorio 4\Laboratorio_4\Datos Procesados\dimension_date.csv' DELIMITER ',' CSV HEADER;
+COPY PUBLIC.employee FROM 'C:\Users\Familia8A\Desktop\OneDrive - Universidad de los Andes\Universidad\Sexto Semestre\Inteligencia de Negocios\Laboratorios\Laboratorio 4\Laboratorio_4\Datos Procesados\dimension_employee.csv' DELIMITER ',' CSV HEADER;
+COPY PUBLIC.stockitem FROM 'C:\Users\Familia8A\Desktop\OneDrive - Universidad de los Andes\Universidad\Sexto Semestre\Inteligencia de Negocios\Laboratorios\Laboratorio 4\Laboratorio_4\Datos Procesados\dimension_stock_item.csv' DELIMITER ',' CSV HEADER;
+COPY PUBLIC.fact_order FROM 'C:\Users\Familia8A\Desktop\OneDrive - Universidad de los Andes\Universidad\Sexto Semestre\Inteligencia de Negocios\Laboratorios\Laboratorio 4\Laboratorio_4\Datos Procesados\dimension_fact_order_final.csv' DELIMITER ',' CSV HEADER;
+
+-- Test para ver los datos -------------------------------
+----------------------------------------------------------
+SELECT * FROM city;
+SELECT * FROM customer;
+SELECT * FROM date_table;
+SELECT * FROM employee;
+SELECT * FROM stockitem;
+SELECT * FROM stockitem_historia;
+SELECT * FROM fact_order;
+
+DROP TABLE city CASCADE;
+DROP TABLE customer CASCADE;
+DROP TABLE date_table CASCADE;
+DROP TABLE employee CASCADE;
+DROP TABLE fact_order CASCADE;
+DROP TABLE stockitem CASCADE;
+DROP TABLE stockitem_historia CASCADE;
